@@ -1,0 +1,36 @@
+﻿  Source.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\utils.h(35): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(22): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(155): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(168): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(200): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(201): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(231): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(233): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\projects\dino_jump\dino_jump\source.cpp(239): warning C4305: '=': truncation from 'double' to 'float'
+  Generating code
+  All 187 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Dino_Jump.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\Projects\Dino_Jump\Release\Dino_Jump.exe
